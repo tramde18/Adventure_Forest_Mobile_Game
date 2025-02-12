@@ -1,0 +1,850 @@
+fileFormatVersion: 2
+guid: 4c67fdc8763ad4d44905a069e96f4c67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1001889158471111080
+    second: jumping_with_basket_0
+  - first:
+      213: -4716923385233170164
+    second: jumping_with_basket_1
+  - first:
+      213: -65342524140970904
+    second: jumping_with_basket_2
+  - first:
+      213: -5690096637710857108
+    second: jumping_with_basket_3
+  - first:
+      213: -7605266222754857136
+    second: jumping_with_basket_4
+  - first:
+      213: -4497928915033614183
+    second: jumping_with_basket_5
+  - first:
+      213: 5491321220650814404
+    second: jumping_with_basket_6
+  - first:
+      213: -906320895214701347
+    second: jumping_with_basket_7
+  - first:
+      213: -2686084433018040175
+    second: jumping_with_basket_8
+  - first:
+      213: 5174249478078888739
+    second: jumping_with_basket_9
+  - first:
+      213: -476058457722106874
+    second: jumping_with_basket_10
+  - first:
+      213: -5853424347410377107
+    second: jumping_with_basket_11
+  - first:
+      213: -1633290934232714736
+    second: jumping_with_basket_12
+  - first:
+      213: -7890933550120004341
+    second: jumping_with_basket_13
+  - first:
+      213: 2564554967265094250
+    second: jumping_with_basket_14
+  - first:
+      213: 7481910950416856601
+    second: jumping_with_basket_15
+  - first:
+      213: 8063727497054998018
+    second: jumping_with_basket_16
+  - first:
+      213: -9170533635586013211
+    second: jumping_with_basket_17
+  - first:
+      213: -7107517733335448423
+    second: jumping_with_basket_18
+  - first:
+      213: 1848441515539383835
+    second: jumping_with_basket_19
+  - first:
+      213: 458962134241117396
+    second: jumping_with_basket_20
+  - first:
+      213: 5479360631833400662
+    second: jumping_with_basket_21
+  - first:
+      213: 4685098589842213445
+    second: jumping_with_basket_22
+  - first:
+      213: -2349985057946340144
+    second: jumping_with_basket_23
+  - first:
+      213: 6986247779822371606
+    second: jumping_with_basket_24
+  - first:
+      213: -6922696342062043096
+    second: jumping_with_basket_25
+  - first:
+      213: -7614429684310695715
+    second: jumping_with_basket_26
+  - first:
+      213: 6586475815851717399
+    second: jumping_with_basket_27
+  - first:
+      213: -4188749262040847773
+    second: jumping_with_basket_28
+  - first:
+      213: 113214781156858947
+    second: jumping_with_basket_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jumping_with_basket_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2431
+        width: 319
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ea30d5e139812f0800000000000000
+      internalID: -1001889158471111080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2436
+        width: 317
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01a1762c2f1a8eb0800000000000000
+      internalID: -4716923385233170164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_2
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2437
+        width: 319
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c99db025bd71ff0800000000000000
+      internalID: -65342524140970904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_3
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2431
+        width: 319
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c89936147b801b0800000000000000
+      internalID: -5690096637710857108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_4
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2443
+        width: 335
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7b623aaaa47690800000000000000
+      internalID: -7605266222754857136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1947
+        width: 337
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998967a9b752491c0800000000000000
+      internalID: -4497928915033614183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1948
+        width: 338
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbc4705e87153c40800000000000000
+      internalID: 5491321220650814404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_7
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1947
+        width: 339
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4b63c92f91c63f0800000000000000
+      internalID: -906320895214701347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_8
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1950
+        width: 337
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190d04d807c19bad0800000000000000
+      internalID: -2686084433018040175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_9
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1947
+        width: 335
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b74286c70aec740800000000000000
+      internalID: 5174249478078888739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1466
+        width: 338
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c472fda53b469f0800000000000000
+      internalID: -476058457722106874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1466
+        width: 335
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d665bfc919574cea0800000000000000
+      internalID: -5853424347410377107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_12
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1473
+        width: 340
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01271328c826559e0800000000000000
+      internalID: -1633290934232714736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_13
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1473
+        width: 342
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0592ee7eb5cd7290800000000000000
+      internalID: -7890933550120004341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_14
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1475
+        width: 344
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aacc6b721279320800000000000000
+      internalID: 2564554967265094250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 980
+        width: 346
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b3b85e5615d760800000000000000
+      internalID: 7481910950416856601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 980
+        width: 347
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e43836f6d18ef60800000000000000
+      internalID: 8063727497054998018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_17
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 974
+        width: 343
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7cf1afe38bbb080800000000000000
+      internalID: -9170533635586013211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_18
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 974
+        width: 344
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99440cd57460d5d90800000000000000
+      internalID: -7107517733335448423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_19
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 974
+        width: 355
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b164fc1d3cbf6a910800000000000000
+      internalID: 1848441515539383835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 491
+        width: 354
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d40cc021af8e5600800000000000000
+      internalID: 458962134241117396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 491
+        width: 353
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65590b8b6799a0c40800000000000000
+      internalID: 5479360631833400662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_22
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 487
+        width: 356
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a8a314850d40140800000000000000
+      internalID: 4685098589842213445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_23
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 484
+        width: 361
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4f1a16a0d236fd0800000000000000
+      internalID: -2349985057946340144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_24
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 484
+        width: 365
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6138c2d475324f060800000000000000
+      internalID: 6986247779822371606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 21
+        width: 369
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820fe7bda54adef90800000000000000
+      internalID: -6922696342062043096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_26
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 21
+        width: 369
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0a87b8b8c145690800000000000000
+      internalID: -7614429684310695715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_27
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 21
+        width: 368
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713fa8d9bdcd76b50800000000000000
+      internalID: 6586475815851717399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_28
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 32
+        width: 354
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a20e63db29ed5c0800000000000000
+      internalID: -4188749262040847773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping_with_basket_29
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 21
+        width: 333
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c9d2e5e38329100800000000000000
+      internalID: 113214781156858947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

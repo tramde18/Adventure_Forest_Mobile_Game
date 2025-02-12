@@ -1,0 +1,670 @@
+fileFormatVersion: 2
+guid: 5ba3208c288e8cf42b499d35b1141571
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3172592138528233292
+    second: deadsHurt_0
+  - first:
+      213: 7936484678236705813
+    second: deadsHurt_1
+  - first:
+      213: -7960662594800570
+    second: deadsHurt_2
+  - first:
+      213: 2981905841565880870
+    second: deadsHurt_3
+  - first:
+      213: 314620063865660160
+    second: deadsHurt_4
+  - first:
+      213: 5593611109142159475
+    second: deadsHurt_5
+  - first:
+      213: 2251104607074148119
+    second: deadsHurt_6
+  - first:
+      213: 1041632004815185489
+    second: deadsHurt_7
+  - first:
+      213: -8509976585462046426
+    second: deadsHurt_8
+  - first:
+      213: -1798836657430726340
+    second: deadsHurt_9
+  - first:
+      213: -7695932638716062498
+    second: deadsHurt_10
+  - first:
+      213: -2861317136670677936
+    second: deadsHurt_11
+  - first:
+      213: -1209277989216313403
+    second: deadsHurt_12
+  - first:
+      213: -5765093127088888816
+    second: deadsHurt_13
+  - first:
+      213: 4887536038818328260
+    second: deadsHurt_14
+  - first:
+      213: -4343596704516515773
+    second: deadsHurt_15
+  - first:
+      213: -763067697945167023
+    second: deadsHurt_16
+  - first:
+      213: 1425112003850186434
+    second: deadsHurt_17
+  - first:
+      213: -1307070380416668273
+    second: deadsHurt_18
+  - first:
+      213: -371835910819449911
+    second: deadsHurt_19
+  - first:
+      213: -7131319512625797471
+    second: deadsHurt_20
+  - first:
+      213: -6216169965475078487
+    second: deadsHurt_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deadsHurt_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2492
+        width: 323
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8e3d55240b8f3d0800000000000000
+      internalID: -3172592138528233292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2498
+        width: 323
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51411abf3ce042e60800000000000000
+      internalID: 7936484678236705813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2514
+        width: 324
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6443cddc1d7b3eff0800000000000000
+      internalID: -7960662594800570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_3
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2515
+        width: 348
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6225238609bd16920800000000000000
+      internalID: 2981905841565880870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1998
+        width: 361
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0036ce9f741cd5400800000000000000
+      internalID: 314620063865660160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1998
+        width: 349
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370e814eaaf70ad40800000000000000
+      internalID: 5593611109142159475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_6
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1999
+        width: 345
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f56e896b78d3f10800000000000000
+      internalID: 2251104607074148119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_7
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1985
+        width: 344
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156efa12ace947e00800000000000000
+      internalID: 1041632004815185489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1463
+        width: 340
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621a4a0226d76e980800000000000000
+      internalID: -8509976585462046426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_9
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1456
+        width: 335
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39f3e8379f3907e0800000000000000
+      internalID: -1798836657430726340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_10
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1457
+        width: 321
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed49ef53a0e823590800000000000000
+      internalID: -7695932638716062498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_11
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1456
+        width: 332
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a10f593f8a48d0800000000000000
+      internalID: -2861317136670677936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 925
+        width: 343
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf101a6318c73fe0800000000000000
+      internalID: -1209277989216313403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_13
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 925
+        width: 350
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01422de78564effa0800000000000000
+      internalID: -5765093127088888816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_14
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 869
+        width: 338
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceafacc12404d340800000000000000
+      internalID: 4887536038818328260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_15
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 935
+        width: 364
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485cb38fc178b3c0800000000000000
+      internalID: -4343596704516515773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 410
+        width: 373
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b376cb8f90965f0800000000000000
+      internalID: -763067697945167023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 410
+        width: 380
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cea2a221d307c310800000000000000
+      internalID: 1425112003850186434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_18
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 410
+        width: 381
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d64d60a6a5cdde0800000000000000
+      internalID: -1307070380416668273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_19
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 444
+        width: 380
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37fdc8539f6daf0800000000000000
+      internalID: -371835910819449911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 393
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6a026cfa6780d90800000000000000
+      internalID: -7131319512625797471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadsHurt_21
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 45
+        width: 405
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aed760e95abbb9a0800000000000000
+      internalID: -6216169965475078487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 34c391905d0cb7b4eb2f8414c0b08d1f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

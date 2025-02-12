@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: d0c4a313e734b2f4d80af0a0257e58d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2954702904279391352
+    second: walking_with_basket_0
+  - first:
+      213: 8657284532023940689
+    second: walking_with_basket_1
+  - first:
+      213: 1208556288874890472
+    second: walking_with_basket_2
+  - first:
+      213: -3876557946620384695
+    second: walking_with_basket_3
+  - first:
+      213: 878408765071662324
+    second: walking_with_basket_4
+  - first:
+      213: 4077357565503762788
+    second: walking_with_basket_5
+  - first:
+      213: 4670812265247097543
+    second: walking_with_basket_6
+  - first:
+      213: -1739503269389880125
+    second: walking_with_basket_7
+  - first:
+      213: 6425000829343673544
+    second: walking_with_basket_8
+  - first:
+      213: -5320619377857666496
+    second: walking_with_basket_9
+  - first:
+      213: 2949964200550199162
+    second: walking_with_basket_10
+  - first:
+      213: 6368640047977728027
+    second: walking_with_basket_11
+  - first:
+      213: 6565746387716570899
+    second: walking_with_basket_12
+  - first:
+      213: -4134243081269063715
+    second: walking_with_basket_13
+  - first:
+      213: 2356578314635877728
+    second: walking_with_basket_14
+  - first:
+      213: 6408777995595924826
+    second: walking_with_basket_15
+  - first:
+      213: 1027810269498304446
+    second: walking_with_basket_16
+  - first:
+      213: 793696312747021777
+    second: walking_with_basket_17
+  - first:
+      213: 3784651268342244343
+    second: walking_with_basket_18
+  - first:
+      213: -5081027622464211891
+    second: walking_with_basket_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walking_with_basket_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1533
+        width: 316
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c536203a6310920800000000000000
+      internalID: 2954702904279391352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1537
+        width: 320
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15655c2e96ad42870800000000000000
+      internalID: 8657284532023940689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_2
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1539
+        width: 316
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4c371aa87a5c010800000000000000
+      internalID: 1208556288874890472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_3
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1534
+        width: 320
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a69702613b33ac0800000000000000
+      internalID: -3876557946620384695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_4
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1531
+        width: 316
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc9fa92e1cb03c00800000000000000
+      internalID: 878408765071662324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1045
+        width: 316
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617a126a1fa59830800000000000000
+      internalID: 4077357565503762788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1043
+        width: 320
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2479a120f02d040800000000000000
+      internalID: 4670812265247097543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_7
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1043
+        width: 318
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b2662efa0cd7e0800000000000000
+      internalID: -1739503269389880125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_8
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1039
+        width: 319
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccae9296303a2950800000000000000
+      internalID: 6425000829343673544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_9
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1043
+        width: 318
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042ebbd9ddc5926b0800000000000000
+      internalID: -5320619377857666496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 511
+        width: 316
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe9e19fc060f820800000000000000
+      internalID: 2949964200550199162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 511
+        width: 319
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b180a029164f16850800000000000000
+      internalID: 6368640047977728027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_12
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 511
+        width: 318
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f76258d873e1b50800000000000000
+      internalID: 6565746387716570899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_13
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 511
+        width: 315
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf47dd52d730a6c0800000000000000
+      internalID: -4134243081269063715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_14
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 511
+        width: 316
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9241dd7f34b020800000000000000
+      internalID: 2356578314635877728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 27
+        width: 316
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55c5dfb1ad80f850800000000000000
+      internalID: 6408777995595924826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_16
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 31
+        width: 315
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7e1f99ef3834e00800000000000000
+      internalID: 1027810269498304446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_17
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 31
+        width: 317
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d2dc5796c30b00800000000000000
+      internalID: 793696312747021777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_18
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 30
+        width: 319
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f36540d648c58430800000000000000
+      internalID: 3784651268342244343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_with_basket_19
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 27
+        width: 318
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44b21d3c409c79b0800000000000000
+      internalID: -5081027622464211891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
